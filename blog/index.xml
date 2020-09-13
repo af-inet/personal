@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on David Hargat</title>
-    <link>https://davidhargat.com/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Blogs on David Hargat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2020, David Hargat.</copyright>
     <lastBuildDate>Sat, 12 Sep 2020 21:38:31 -0400</lastBuildDate>
     
-	<atom:link href="https://davidhargat.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>other blogs </title>
-      <link>https://davidhargat.com/blog/other-blogs/</link>
+      <link>/blog/other-blogs/</link>
       <pubDate>Sat, 12 Sep 2020 21:38:31 -0400</pubDate>
       
-      <guid>https://davidhargat.com/blog/other-blogs/</guid>
+      <guid>/blog/other-blogs/</guid>
       <description>Some other blogs I enjoy ❤️
 James Fisher
 Julia Evans
@@ -30,10 +30,10 @@ evilsocket</description>
     
     <item>
       <title>so I wrote a web server</title>
-      <link>https://davidhargat.com/blog/i-wrote-a-web-server/</link>
+      <link>/blog/i-wrote-a-web-server/</link>
       <pubDate>Sun, 26 Mar 2017 23:21:58 -0400</pubDate>
       
-      <guid>https://davidhargat.com/blog/i-wrote-a-web-server/</guid>
+      <guid>/blog/i-wrote-a-web-server/</guid>
       <description>UPDATE 2020:
 This post is no longer accurate since I moved my website from Digital Ocean to Github Pages.
 (this is actually how I ran my site in 2017 though)

@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://davidhargat.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-09-12T21:38:31-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://davidhargat.com/tags/blogging/</loc>
+    <loc>/tags/blogging/</loc>
     <lastmod>2020-09-12T21:38:31-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://davidhargat.com/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2020-09-12T21:38:31-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://davidhargat.com/blog/other-blogs/</loc>
+    <loc>/blog/other-blogs/</loc>
     <lastmod>2020-09-12T21:38:31-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://davidhargat.com/tags/c/</loc>
+    <loc>/tags/c/</loc>
     <lastmod>2017-03-26T23:21:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://davidhargat.com/tags/server/</loc>
+    <loc>/tags/server/</loc>
     <lastmod>2017-03-26T23:21:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://davidhargat.com/blog/i-wrote-a-web-server/</loc>
+    <loc>/blog/i-wrote-a-web-server/</loc>
     <lastmod>2017-03-26T23:21:58-04:00</lastmod>
   </url>
   

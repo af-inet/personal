@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://davidhargat.com/sitemap.xml
+Sitemap: sitemap.xml
